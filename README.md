@@ -17,8 +17,8 @@ Hi there. I’m a Front-End Developer with a strong interest in full-stack devel
 
 
 # GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=anik-siddiky&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anik-siddiky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=anik-siddiky&theme=dark&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anik-siddiky&icon=0&color=0)](https://visitcount.itsvg.in)
