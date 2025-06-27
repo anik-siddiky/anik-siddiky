@@ -9,8 +9,9 @@ Hi there. I’m a Front-End Developer with a strong interest in full-stack devel
 
 
 ## Get in Touch
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamaniksiddiky)
 <div align="left">
-  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamaniksiddiky)
+  
   <a href="mailto:iamaniksiddiky@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
