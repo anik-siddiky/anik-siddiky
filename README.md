@@ -9,7 +9,7 @@ Hi there. I’m a Front-End Developer with a strong interest in full-stack devel
 
 
 ## Get in Touch
-<div align="left">
+
   <a href="mailto:iamaniksiddiky@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
@@ -25,7 +25,7 @@ Hi there. I’m a Front-End Developer with a strong interest in full-stack devel
   <a href="https://www.facebook.com/dev.anik.siddiky" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-</div>
+
 
 
 
