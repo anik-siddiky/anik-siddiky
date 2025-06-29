@@ -27,6 +27,7 @@ Hi there. I’m a Front-End Developer with a strong interest in full-stack devel
   </a>
 
 ![GMAIL](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)
+![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)
 
 
 # Technologies & Tools
